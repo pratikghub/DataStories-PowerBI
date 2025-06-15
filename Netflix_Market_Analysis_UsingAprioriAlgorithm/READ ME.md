@@ -235,3 +235,13 @@ Datasets: Access the 25 datasets listed below.
 
 - **Netflix Statistics**  
   Business of Apps. (n.d.). *Netflix Statistics*. [Business of Apps](https://www.businessofapps.com/data/netflix-statistics/?utm_source=chatgpt.com)
+
+
+## License
+This project is licensed under the **MIT License**.
+
+## Acknowledgments
+- Completed as part of a group project at the University of Auckland.
+Thanks to the University of Auckland for resources and support.
+Gratitude to the open-source community for datasets on Kaggle and IMDb.
+Appreciation to instructors and peers for guidance and feedback.
