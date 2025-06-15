@@ -243,5 +243,5 @@ This project is licensed under the **MIT License**.
 ## Acknowledgments
 - Completed as part of End Term Project at the [University of Auckland](https://www.auckland.ac.nz/en.html).
 - Thanks to the [University of Auckland](https://www.auckland.ac.nz/en.html) for resources and support.
-- Gratitude to the open-source community for datasets on Kaggle and IMDb.
+- Gratitude to the open-source community for datasets on **Kaggle** and **IMDb**.
 - Appreciation to instructors and peers for guidance and feedback.
