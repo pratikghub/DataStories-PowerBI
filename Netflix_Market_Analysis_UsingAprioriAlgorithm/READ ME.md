@@ -20,7 +20,7 @@ This project analyzes Netflix's market performance from 2017 to 2021, focusing o
 - [Results](#results)
 - [Conclusions](#conclusions)
 - [Requirements](#requirements)
-- [Data Sources](#data-sources)[#Dataset-&-Source-References]
+- [Data Sources](#data-sources)(#Dataset-&-Source-References)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
