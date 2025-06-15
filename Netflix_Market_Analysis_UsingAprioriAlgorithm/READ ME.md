@@ -47,7 +47,7 @@ See the [Data Sources](#dataset--source-references) section for a complete list 
 
 Extensive data wrangling was performed to prepare the datasets for analysis:
 
-1. **Data Integration**: Combined 25 datasets using joins on common fields like movie titles. For example, `most-popular_global_weekly.xlsx` was merged with IMDb data using the `Title` column.
+1. **Data Integration**: Combined and Modeled 25 relevant datasets using joins on common fields like movie titles. For example, `most-popular_global_weekly.xlsx` was merged with IMDb data using the `Title` column.
 2. **Column Filtering**: Removed irrelevant columns (e.g., `season_title`, `country_iso2`, `Poster`, `Metascore`) to reduce noise.
 3. **Handling Missing Data**: Applied `na.omit()` to remove rows with missing values.
 4. **Data Transformation**:
