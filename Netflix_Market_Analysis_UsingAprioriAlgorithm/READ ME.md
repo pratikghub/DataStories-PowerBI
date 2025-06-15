@@ -20,7 +20,7 @@ This project analyzes Netflix's market performance from 2017 to 2021, focusing o
 - [Results](#results)
 - [Conclusions](#conclusions)
 - [Requirements](#requirements)
-- [Data Sources](#Dataset-&-Source-References)
+- [Data Sources](#dataset--source-references)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -41,7 +41,7 @@ Key datasets include:
 - Netflix Original Films IMDb Scores
 - Netflix User Statistics
 
-See the [Data Sources](#Dataset-&-Source-References) section for a complete list with links.
+See the [Data Sources](#dataset--source-references) section for a complete list with links.
 
 ## Data Preprocessing
 
