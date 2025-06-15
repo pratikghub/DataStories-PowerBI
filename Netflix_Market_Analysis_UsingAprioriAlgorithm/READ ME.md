@@ -171,7 +171,7 @@ Install with:
 
 ```R
 install.packages(c("ggplot2", "GGally", "tidyverse", "corrplot", "readxl", "arules", "arulesViz"))
-
+```
 
 ## Other Tools:
 
