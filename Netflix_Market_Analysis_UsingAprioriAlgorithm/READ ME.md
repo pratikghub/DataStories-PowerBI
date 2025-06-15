@@ -241,7 +241,7 @@ Datasets: Access the 25 datasets listed below.
 This project is licensed under the **MIT License**.
 
 ## Acknowledgments
-- Completed as part of a group project at the University of Auckland.
-Thanks to the University of Auckland for resources and support.
-Gratitude to the open-source community for datasets on Kaggle and IMDb.
-Appreciation to instructors and peers for guidance and feedback.
+- Completed as part of End Term Project at the [University of Auckland](https://www.auckland.ac.nz/en.html).
+- Thanks to the [University of Auckland](https://www.auckland.ac.nz/en.html) for resources and support.
+- Gratitude to the open-source community for datasets on Kaggle and IMDb.
+- Appreciation to instructors and peers for guidance and feedback.
