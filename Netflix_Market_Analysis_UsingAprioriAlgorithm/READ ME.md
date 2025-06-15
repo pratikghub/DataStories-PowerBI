@@ -118,7 +118,7 @@ A Power BI dashboard visualizes key insights across six pages. Below are detaile
 **Content**: Visualizes global streaming market trends in billions, including revenue and subscriber growth for Netflix and Amazon Prime over the years.
 
 **Interpretation**:
-- - Shows Amazon Prime’s more aggressive revenue and subscriber growth, overtaking Netflix by 2021.
+- Shows Amazon Prime’s more aggressive revenue and subscriber growth, overtaking Netflix by 2021.
 - Amazon Prime’s pricing consistency and bundled offerings helped fuel rapid expansion.
 - Netflix still shows strong growth, especially driven by original content, but may need to adapt pricing and bundling strategies in response to Amazon’s scale.
 
