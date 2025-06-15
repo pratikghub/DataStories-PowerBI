@@ -118,9 +118,9 @@ A Power BI dashboard visualizes key insights across six pages. Below are detaile
 **Content**: Visualizes global streaming market trends in billions, including revenue and subscriber growth for Netflix and Amazon Prime over the years.
 
 **Interpretation**:
-- Shows Netflix's stronger revenue growth compared to Amazon Prime, driven by its focus on originals and global expansion.
-- Subscriber growth trends indicate Netflix's dominance in regions like Asia Pacific, but Amazon Prime's competitive pricing poses a challenge in price-sensitive markets.
-- Recommends Netflix optimize pricing strategies in regions like Latin America to maintain growth.
+- - Shows Amazon Prime’s more aggressive revenue and subscriber growth, overtaking Netflix by 2021.
+- Amazon Prime’s pricing consistency and bundled offerings helped fuel rapid expansion.
+- Netflix still shows strong growth, especially driven by original content, but may need to adapt pricing and bundling strategies in response to Amazon’s scale.
 
 ### Page 6: Genre Recommendations Driven by Viewer Analytics
 
@@ -145,14 +145,14 @@ Key findings from the Apriori analysis and dashboard:
 - **Content Strategy**: Netflix Originals drive engagement, particularly in Drama and Sci-Fi.
 - **Regional Penetration**: Europe and Asia Pacific show strong subscriber growth.
 - **Competitive Benchmarking**: Netflix leads in exclusive content but trails in Action genres.
-- **Revenue and Subscribers**: Netflix outpaces Amazon Prime in revenue and subscriber growth.
+- **Market Trends**: Amazon Prime surpasses Netflix in revenue and subscriber growth by 2021.
 
 ## Conclusions
 
 - **Genre Strategy**: Invest in Sci-Fi and Drama, especially for Europe, Middle East, and Africa.
 - **Regional Focus**: Target Asia Pacific for growth due to increasing subscribers and Action/Adventure preferences.
-- **Competitive Positioning**: Expand Action and Comedy to close gaps with Amazon Prime.
-- **Strategic Recommendations**: Optimize pricing in Latin America and tailor content for Teens in Asia Pacific.
+- **Competitive Positioning**: Expand Action and Comedy to close gaps with Amazon Prime and respond to its aggressive growth.
+- **Strategic Recommendations**: Optimize pricing in Latin America and tailor content for Teens in Asia Pacific. Consider exploring bundled service offerings and cross-platform partnerships to match Amazon Prime’s scaling advantage.
 
 ## Requirements
 
