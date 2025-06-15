@@ -58,20 +58,25 @@ Extensive data wrangling was performed to prepare the datasets for analysis:
 
 ## Modeling
 
-The project employs the **Apriori algorithm** to uncover association rules in viewing patterns:
+To uncover latent viewing patterns, the project applies **unsupervised machine learning** using the **Apriori algorithm** in R. This technique reveals frequent genre associations watched together across different regions and years, providing actionable insights for content strategy.
 
-- **Algorithm**: Apriori identified frequent genre combinations watched in each region-year combination.
-- **Parameters**:
+- **Algorithm Used**: The Apriori algorithm, implemented via the `arules` package in R, was employed to mine association rules from transactional genre data.
+- **Parameter Settings**:
   - Minimum support: 0.10
   - Minimum confidence: 0.33
   - Minimum rule length: 2
-- **Process**:
-  - Grouped data by region, year, and transaction ID.
-  - Created transactions from genre lists using the `arules` package.
-  - Generated rules for each region-year, filtered to avoid duplicates.
-  - Selected top 5 rules per region-year based on lift.
+- **Modeling Workflow**:
+  1. **Transaction Preparation**: The dataset was grouped by `region`, `year`, and unique `transaction ID`. Genres watched in each transaction were compiled into lists to form market basket-style transactions.
+  2. **Data Cleaning & Transformation**: Missing values were omitted, categorical age segments were created (e.g., Kids, Teens, Adults, Older), and regions were unified using `case_when`.
+  3. **Rule Mining**: Association rules were generated for each region-year combination. Redundant or overlapping rules were removed.
+  4. **Rule Selection**: The top 5 rules per region-year were selected based on **lift**, ensuring only the strongest genre co-viewing patterns were retained.
 
-The output includes rules, support, confidence, and lift metrics, saved as `rules_apriori_top5.csv`.
+- **Output & Integration**:
+  - The resulting rules (with metrics such as `support`, `confidence`, and `lift`) were exported as `rules_apriori_top5.csv`.
+  - These outputs were then **imported into Power BI**, enabling seamless integration of R-based machine learning with business intelligence visualizations.
+  - Genre recommendation visuals in the Power BI dashboard are powered directly by these Apriori rule outputs, making the analytics pipeline fully end-to-end.
+
+This advanced integration of R with Power BI allows technical insights to be directly translated into interactive business recommendations—enhancing the strategic value of unsupervised learning.
 
 ## Visualization and Page Interpretations
 
