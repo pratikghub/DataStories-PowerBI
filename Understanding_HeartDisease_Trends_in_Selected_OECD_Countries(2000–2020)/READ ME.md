@@ -1,6 +1,6 @@
 # Understanding Heart Disease Trends in Selected OECD Countries (2000–2020)
 
-**Author**: Pratik Ganguli
+**Author**: **Pratik Ganguli**
 
 ## Overview
 
